@@ -45,6 +45,7 @@ a:hover{
 .bottom-cloud{
   position: absolute;
   left: 20%;
+  bottom:50%;
   max-width: 50%;
   width:auto;
 }
