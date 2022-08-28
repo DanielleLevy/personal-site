@@ -46,14 +46,14 @@ a:hover{
   position: absolute;
   left: 20%;
   bottom: 40%;
-  max-width: 20%;
+  max-width: 50%;
   width:auto;
 }
 .top-cloud{
   position: absolute;
   right: 20%;
   top:0%;
-  max-width: 20%;
+  max-width: 50%;
   width:auto;
 }
 .top-container{
