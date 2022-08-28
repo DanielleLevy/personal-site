@@ -47,13 +47,14 @@ a:hover{
   left: 20%;
   bottom: 20%;
   max-width: 10%;
-
+  width:auto;
 }
 .top-cloud{
   position: absolute;
   right: 20%;
   top:0%;
   max-width: 10%;
+  width:auto;
 }
 .top-container{
   background-color: #FFF6EA;
