@@ -1,0 +1,127 @@
+body{
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  color: #40514E;
+}
+h1{
+  font-size: 5.625rem;
+  font-family: 'Indie Flower', cursive;
+  margin:  50px auto auto 0;
+  color:  #876445;
+
+}
+h2{
+ font-family: 'Neucha', cursive;
+ font-size: 2.5rem;
+   color:  #BF9270;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Neucha', cursive;
+  color:#CEAB93;
+}
+
+hr{
+  border-color: #C3B091;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  color:#BF9270;
+  font-family: 'Comfortaa', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #FFF6EA;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:0px;
+}
+.top-container{
+  background-color: #FFF6EA;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50PX;
+}
+.middle-container{
+ margin: 100px 0;
+  background-color: white;
+}
+.bottom-container{
+  padding: 50PX 0 20px;
+  background-color: #EBD8C3;
+}
+.btn {
+  margin-top: 100px;
+  margin-bottom:  100px;
+  background: #BF9270;
+  background-image: -webkit-linear-gradient(top, #BF9270, #E3B7A0);
+  background-image: -moz-linear-gradient(top, #BF9270, #E3B7A0);
+  background-image: -ms-linear-gradient(top, #BF9270, #E3B7A0);
+  background-image: -o-linear-gradient(top, #BF9270, #E3B7A0);
+  background-image: linear-gradient(to bottom, #BF9270, #E3B7A0);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Comfortaa', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #E3B7A0;
+  background-image: -webkit-linear-gradient(top, #E3B7A0, #BF9270);
+  background-image: -moz-linear-gradient(top, #E3B7A0, #BF9270);
+  background-image: -ms-linear-gradient(top, #E3B7A0, #BF9270);
+  background-image: -o-linear-gradient(top, #E3B7A0, #BF9270);
+  background-image: linear-gradient(to bottom, #E3B7A0, #BF9270);
+  text-decoration: none;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+.computer{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.teach{
+  float: right;
+  width: 25%;
+  margin-left:  30px;
+}
+.Belle{
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+  padding-bottom: 10px;
+}
+.contact-message{
+  width: 27%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color:#FFF6EA;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
