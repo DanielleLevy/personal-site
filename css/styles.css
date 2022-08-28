@@ -45,15 +45,15 @@ a:hover{
 .bottom-cloud{
   position: absolute;
   left: 20%;
-  bottom: 20%;
-  max-width: 10%;
+  bottom: 40%;
+  max-width: 20%;
   width:auto;
 }
 .top-cloud{
   position: absolute;
   right: 20%;
   top:0%;
-  max-width: 10%;
+  max-width: 20%;
   width:auto;
 }
 .top-container{
